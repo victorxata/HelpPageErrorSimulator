@@ -1,0 +1,6 @@
+namespace HelpPageErrorSimulator.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
